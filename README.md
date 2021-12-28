@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am preparing a front-end developer, and I like clean code and design.
+I am preparing a front-end developer, and I like clean code and design.   
 I'm always welcome when it comes to coding.
   - ⭐ Frontend Web Developer
   - ⌚ I enjoy playing Overwatch
