@@ -20,4 +20,3 @@ I'm always welcome when it comes to coding.
   - 🥇 The goal is to solve 1000 problems in "Beakjoon Online".
 
 Velog Blog: https://velog.io/@hxxtae
-WebSite: 
