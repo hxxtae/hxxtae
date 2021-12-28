@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hxxtae/hxxtae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am preparing a front-end developer, and I like clean code and design.
+I'm always welcome when it comes to coding.
+  - ⭐ Frontend Web Developer
+  - ⌚ I enjoy playing Overwatch
+  - 🥇 The goal is to solve 1000 problems in "Beakjoon Online".
+
+Velog Blog: https://velog.io/@hxxtae
+WebSite: 
