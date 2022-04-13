@@ -18,4 +18,4 @@ I'm always welcome when it comes to coding.
   - ⭐ Frontend Web Developer
   - 🥇 The goal is to solve 1000 problems in "Beakjoon Online".
 
-Velog Blog: https://velog.io/@hxxtae
+Notion: https://www.notion.so/Hxxtae-Growth-Note-02e6a0e829ae4a1398be64c556e7af23
