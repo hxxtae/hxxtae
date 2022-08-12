@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 I am preparing a front-end developer, and I like clean code and design.   
 I'm always welcome when it comes to coding.
   - ⭐ Frontend Web Developer
+  - 🍀 I try to be a developer with a solid foundation.
   - 🥇 The goal is to solve 1000 problems in "Beakjoon Online".
 
-Notion: https://www.notion.so/Hxxtae-Growth-Note-02e6a0e829ae4a1398be64c556e7af23
+<a href="https://www.notion.so/Hxxtae-Growth-Note-02e6a0e829ae4a1398be64c556e7af23" target="_blank">Hxxtae Notion</a>
+<br>
+<a href="https://www.hxxtae.me/" target="_blank">Hxxtae Portfolio</a>
+<br>
