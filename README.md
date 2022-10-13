@@ -20,6 +20,7 @@
 
 <a href="https://www.notion.so/Hxxtae-Growth-Note-02e6a0e829ae4a1398be64c556e7af23"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://www.hxxtae.me/"><img src="https://img.shields.io/badge/Resume-e7e7e7?style=flat-square&logo=html5&logoColor=black"/></a>
+<a href="https://dev.to/hxxtae"><img src="https://img.shields.io/badge/Dev_Community-171717?style=flat-square&logo=dev.to&logoColor=ffffff"/></a>
 
 ### Side Project
 
