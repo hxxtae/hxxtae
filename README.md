@@ -22,7 +22,7 @@
 <a href="https://www.hxxtae.me/"><img src="https://img.shields.io/badge/Resume-e7e7e7?style=flat-square&logo=html5&logoColor=black"/></a>
 <a href="https://dev.to/hxxtae"><img src="https://img.shields.io/badge/Dev_Community-171717?style=flat-square&logo=dev.to&logoColor=ffffff"/></a>
 
-### Side Project
+### Main Project
 
 - [Welaundry](https://hxxtae.github.io/we-laundry-desc/) : It is a laundry force application suitable for our neighborhood laundry.
                                     
