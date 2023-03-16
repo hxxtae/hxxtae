@@ -24,5 +24,7 @@
 
 ### Main Project
 
-- [Welaundry](https://hxxtae.github.io/we-laundry-desc/) : It is a laundry force application suitable for our neighborhood laundry.
+- [Welaundry](https://welaundry.netlify.app/) : It is a laundry force application suitable for our neighborhood laundry.
+  - [Go Description](https://hxxtae.github.io/we-laundry-desc/) : This is a website that introduces welaundry.
+  - [Previous Version](https://hxxtae.github.io/we-laundry-asis/) : Take a quick look at older versions.
                                     
