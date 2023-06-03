@@ -9,6 +9,11 @@
     I'm always welcome when it comes to coding.
   </sup>
 </h4>
+
+<a href="https://hxxtae.notion.site/Hxxtae-Development-Note-02e6a0e829ae4a1398be64c556e7af23" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://career.programmers.co.kr/pr/fkdlxmfkdl1_2031"><img src="https://img.shields.io/badge/Resume-e7e7e7?style=flat-square&logo=html5&logoColor=black"/></a>
+<a href="https://dev.to/hxxtae"><img src="https://img.shields.io/badge/Dev_Community-171717?style=flat-square&logo=dev.to&logoColor=ffffff"/></a>
+
 <p>
   <sup>
   ⭐ Frontend Web Developer
@@ -17,10 +22,6 @@
   </sup>
   
 </p>
-
-<a href="https://hxxtae.notion.site/Hxxtae-Development-Note-02e6a0e829ae4a1398be64c556e7af23" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://www.heetae.me/"><img src="https://img.shields.io/badge/Resume-e7e7e7?style=flat-square&logo=html5&logoColor=black"/></a>
-<a href="https://dev.to/hxxtae"><img src="https://img.shields.io/badge/Dev_Community-171717?style=flat-square&logo=dev.to&logoColor=ffffff"/></a>
 
 ### Main Project
 
