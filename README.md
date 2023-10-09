@@ -10,18 +10,21 @@
   </sup>
 </h4>
 
+<p>
+  <sup>
+  ⭐ Frontend Web Developer.
+  <br>
+  🍀 I try to be a developer with a solid foundation.
+  <br>
+  ✨ I have good documentation and communication skills.
+  <br>
+  If you want to know more about me, please click the resume below...
+  </sup>
+</p>
+
 <a href="https://hxxtae.notion.site/Hxxtae-Development-Note-02e6a0e829ae4a1398be64c556e7af23" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://career.programmers.co.kr/pr/fkdlxmfkdl1_2031"><img src="https://img.shields.io/badge/Resume-e7e7e7?style=flat-square&logo=html5&logoColor=black"/></a>
 <a href="https://dev.to/hxxtae"><img src="https://img.shields.io/badge/Dev_Community-171717?style=flat-square&logo=dev.to&logoColor=ffffff"/></a>
-
-<p>
-  <sup>
-  ⭐ Frontend Web Developer
-  <br>
-  🍀 I try to be a developer with a solid foundation.
-  </sup>
-  
-</p>
 
 ### Main Project
 
