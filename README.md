@@ -26,7 +26,7 @@
 <a href="https://career.programmers.co.kr/pr/fkdlxmfkdl1_2031"><img src="https://img.shields.io/badge/Resume-e7e7e7?style=flat-square&logo=html5&logoColor=black"/></a>
 <a href="https://dev.to/hxxtae"><img src="https://img.shields.io/badge/Dev_Community-171717?style=flat-square&logo=dev.to&logoColor=ffffff"/></a>
 
-### Main Project
+## Main Project
 
 - [Welaundry](https://welaundry.netlify.app/) : It is a laundry POS application suitable for our neighborhood laundry.
   - [Go Description](https://hxxtae.github.io/we-laundry-desc/) : This is a website that introduces welaundry.
