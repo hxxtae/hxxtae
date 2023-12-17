@@ -34,4 +34,5 @@
 
 ## Side Project
 - [Netflix](https://hxxtae.github.io/react-masterclass-nomflix/) : Netflix clone website.
+- [Algorithm-Blog](https://algorithms-blog.vercel.app/) : Algorithm practice & solved blog.
                                     
