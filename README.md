@@ -21,6 +21,6 @@
   - [Previous Version](https://hxxtae.github.io/we-laundry-asis/) : Take a quick look at older versions.
 
 ## Side Project
-- [Netflix](https://hxxtae.github.io/react-masterclass-nomflix/) : Netflix clone website.
+- [Netflix](https://hxxtae.github.io/nomflix/) : Netflix clone website.
 - [Algorithm-Blog](https://algorithms-blog.vercel.app/) : Algorithm problem solving blog.
                                     
